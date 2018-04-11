@@ -9,7 +9,7 @@
 ## Download
 
 * [GitHub](https://github.com/sinchang/starred/releases)
-* [Chrome Store](https://chrome.google.com/webstore/detail/bagboppnkhnajgadjnaciofegedkpodp)
+* [Chrome Store](https://chrome.google.com/webstore/detail/starred/bagboppnkhnajgadjnaciofegedkpodp)
 
 ## Changlog
 
