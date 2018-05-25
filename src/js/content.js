@@ -40,7 +40,7 @@
   function main() {
     if (location.href !== 'https://github.com/') return
 
-    const username = document.querySelector('.css-truncate-target').innerHTML
+    const username = document.querySelector('.css-truncate .css-truncate-target').innerHTML
     const starPageUrl = `https://github.com/${username}?tab=stars`
 
     request(starPageUrl)
