@@ -63,6 +63,10 @@
         appendDiv.className = 'random-star'
         appendDiv.innerHTML = html
         appendStyle()
+        if (document.querySelectorAll('.team-left-column').length === 2) {
+          document.querySelectorAll('.team-left-column')[1].prepend(appendDiv)
+          return
+        }
         document.querySelector('.dashboard-sidebar').prepend(appendDiv)
       })
   }
