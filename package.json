@@ -1,6 +1,6 @@
 {
   "name": "starred",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description":
     "Show one random repo from your starred repos on the GitHub homepage",
   "scripts": {
