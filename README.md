@@ -8,18 +8,19 @@
 
 ## Download
 
-* [GitHub](https://github.com/sinchang/starred/releases)
-* [Chrome Store](https://chrome.google.com/webstore/detail/starred/bagboppnkhnajgadjnaciofegedkpodp)
+- [GitHub](https://github.com/sinchang/starred/releases)
+- [Chrome Store](https://chrome.google.com/webstore/detail/starred/bagboppnkhnajgadjnaciofegedkpodp)
 
 ## Changlog
 
-* 0.0.1 init
-* 0.0.2 update get username
-* 0.0.3 support the latest github dashboard
+- 0.0.1 init
+- 0.0.2 update get username
+- 0.0.3 support the latest github dashboard
+- 0.0.4 Compatible with new GitHub dashboard
 
 ## Credits
 
-* project icon from [icons8](https://icons8.com/)
+- project icon from [icons8](https://icons8.com/)
 
 ## Author
 
